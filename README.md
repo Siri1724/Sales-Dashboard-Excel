@@ -66,12 +66,14 @@ This dashboard transforms raw sales data into meaningful business insights by al
 ```
 Sales-Performance-Dashboard/
 │
-├── Dashboard.xlsx
-├── README.md
-└── Images/
-    └── dashboard.png
 └── Data/
-    └── .png
+    └──2013.xslx
+       2014.xslx
+       2015.xslx
+       2016.xslx
+└── Image/
+    └── Dashboard1.png
+ ├── README.md      
 ```
 
 ---
@@ -80,5 +82,5 @@ Sales-Performance-Dashboard/
 
 **Sara Farouk**
 
-- LinkedIn: *(ضعى لينك لينكدإن هنا)*
+- LinkedIn: https://www.linkedin.com/in/sara-farouk1/
 - GitHub: https://github.com/Siri1724
